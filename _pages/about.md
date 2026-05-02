@@ -7,7 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergradaute student of Computer Science and Entrepreneurship in Singapore's [Nanyang Technological University](https://www.ntu.edu.sg/). I am the Head of Electrical & Embedded Systems as well as the Head of Research at [Mecatron Singapore](https://mecatron.sg/)
+I am an undergraduate student in [Nanyang Technological University (NTU)](https://www.ntu.edu.sg/) studying Computer Science with a Second Major in Entreprenuership. During my time in NTU, I was heavily involved in [Nanyang Venture Formula (now NTU Formula Racing)](https://www.instagram.com/ntuformularacing/) and [Mecatron](www.mecatron.sg). The entirety of my third year was spent overseas, a semester of internship at [Axoft](www.axoft.us) in Boston, MA, USA and a semester at (Queen's University of Canada)[www.queensu.ca] in Kingston, ON, Canada.
 
-From June till December of 2025, I was a Software and Data Engineering Intern at [Axoft](https://axoft.us/) where i worked on the data acquisision, processing and inference of neural electrophysiological data.
-
+My interests span into various area, including: (underwater, on-water, aerial, on-land) Robotics, Wireless Communications, Prosthesis and Neurotechnology. Specifically my research explores (1) Underwater Acoustics Communications and Localization, (2) Integrated Communications and Propulsion systems for marine vessels, (3) Closed-Loop 
